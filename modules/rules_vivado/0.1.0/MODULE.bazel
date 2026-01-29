@@ -1,0 +1,10 @@
+module(
+    name = "rules_vivado",
+    version = "0.1.0",
+    compatibility_level = 1,
+    bazel_compatibility = [">=7.5.0"],
+    repo_name = "rules_hdl",
+)
+
+bazel_dep(name = "rules_verilator", version = "0.1.0")
+bazel_dep(name = "rules_license", version = "1.0.0")

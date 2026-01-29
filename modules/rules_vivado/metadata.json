@@ -1,0 +1,14 @@
+{
+    "homepage": "https://github.com/CruxML/bazel_rules_vivado",
+    "maintainers": [
+        {
+            "github": "CruxML"
+        }
+    ],
+    "repository": [
+        "github:CruxML/bazel_rules_vivado"
+    ],
+    "versions": [
+        "0.1.0"
+    ]
+}
